@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FlickerApp</string>
+
+    <string name="btn_flickr">Flickr</string>
+    <string name="btn_database">Database</string>
+
+</resources>
